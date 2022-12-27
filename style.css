@@ -60,6 +60,7 @@ body {
     width: 1000;
     z-index: -1;
     overflow: hidden;
+    background-image: url(img/glavekran.jpeg);
 }
 
 /*  ________________________________________________________________________________________________________________________________     */
@@ -103,7 +104,7 @@ body {
     position: absolute;
     bottom: 250px;
     left: 50px;
-    background-image: url(http://wiki.5040.ir/upload/thumb1/content/1451825750.jpg);
+    background-image: url(img/BasketBoll.jpg);
 
 }
 
@@ -150,7 +151,7 @@ body {
     position: absolute;
     bottom: 250px;
     left: 50px;
-    background-image: url(https://sporttime.freefam.ru/wp-content/uploads/2020/06/e6e37238899ec407e0e5a3a6a2e86aa9-320x373.png);
+    background-image: url(img/BasketBoll2.webp);
 
 }
 
@@ -224,7 +225,7 @@ body {
     position: absolute;
     bottom: 15px;
     left: 50px;
-    background-image: url(https://images-na.ssl-images-amazon.com/images/I/41vKJPyj8YL._AC_SY355_.jpg,https://images-na.ssl-images-amazon.com/images/I/613YCGEYjFL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/61N7G5EIBoL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/71SkRzyMQ2L._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/41l0RS48luL._AC_SX466_.jpg,https://images-na.ssl-images-amazon.com/images/I/41b3k2R2iiL._AC_SY450_.jpg,https://images-na.ssl-images-amazon.com/images/I/61izNW2xtpL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/510j2WVyFtL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/51PkWU86QcL._AC_SL1001_.jpg,https://images-na.ssl-images-amazon.com/images/I/51sVfeXkS4L._AC_SX466_.jpg,https://images-na.ssl-images-amazon.com/images/I/41kfB80gWML._AC_SX425_.jpg,https://images-na.ssl-images-amazon.com/images/I/51Of6u7WxTL._AC_SX425_.jpg)
+    background-image: url(img/BasketForma.jpg)
 }
 
 .buy3 {
@@ -273,7 +274,7 @@ body {
     position: absolute;
     bottom: 15px;
     left: 50px;
-    background-image: url(https://nbaform.ru/wa-data/public/shop/products/90/47/4790/images/27266/27266.380x0.jpg)
+    background-image: url(img/BasketForma2.jpg)
 }
 
 .buy33 {
@@ -333,7 +334,7 @@ body {
     position: absolute;
     bottom: 15px;
     left: 5px;
-    background-image: url(https://nbaform.ru/wa-data/public/shop/products/97/48/4897/images/27781/27781.380x0.jpg)
+    background-image: url(img/BasketSumka.jpg)
 }
 
 
@@ -378,7 +379,7 @@ body {
     position: absolute;
     bottom: 15px;
     left: 50px;
-    background-image: url(http://ae01.alicdn.com/kf/Hb433d7e9e8b841e2bb16dcec018cfb139/New-USB-Basketball-Backpack-Gym-Fitness-Bag-Sporttas-Net-Ball-Bags-for-Men-Sports-Sac-De.jpg_220x220q90.jpg)
+    background-image: url(img/BasketSumka2.jpg)
 }
 
 .BasketSumka44 {
@@ -459,7 +460,7 @@ body {
     position: absolute;
     bottom: 100px;
     left: 30px;
-    background-image: url(http://fantastic-sport.ru/pictures/product/small/9327_small.jpg)
+    background-image: url(img/kross.jpg)
 }
 
 .buy5 {
